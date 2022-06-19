@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(96, 155, 161);
+}
+.head1{
+  text-align: center;
+  color: white;
+  font-family: 'Staatliches', cursive;
+
+}
+.head1 a{
+color: white;
+transition: 0.3s;
+text-decoration: none;
+
+}
+.head1 a:hover{
+  font-size: 36px;
+  color: grey;
+  text-decoration: unset;
+}
+.material-symbols-outlined {
+  color: white;
+  padding-left: 1260px;
+  font-size: 40px !important;
+
+  font-variation-settings:
+
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 100,
+  'opsz' 48
+}
+#lol{
+  padding-left: 1260px;
+  margin-top: 0px;
+}
